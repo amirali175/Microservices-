@@ -2,7 +2,7 @@
 
 Docker est une plateforme logicielle open source permettant de creer, de deployer et gerer des containers d'application virtualisees  sur un systeme d'exploitation.
 
-![images](kubernetes master.png)
+![image](FR-docker-tut.png)
 
 ## 💘:Fonctionnalites 
 
