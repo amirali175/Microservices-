@@ -6,4 +6,5 @@ Docker est une plateforme logicielle open source permettant de creer, de deploye
 
 ## 💘:Fonctionnalites 
 
+💧: La plateforme de conteneurisation repose sur sept composants principaux.
 
