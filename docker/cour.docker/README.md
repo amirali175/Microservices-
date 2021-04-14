@@ -14,5 +14,10 @@ Le Docker Engine est un outil client-serveur sur lequel repose la technologie de
 ![image](images/dockermachine-01.png)
 
 
+Les containers créés sont appelés Dockerfiles. Le composant Docker Compose permet de définir la composition des composants au sein d’un container dédié.
+
+![image](images/1.png)
+
+
 
 
