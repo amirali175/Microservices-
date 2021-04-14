@@ -9,6 +9,8 @@ Docker est une plateforme logicielle open source permettant de creer, de deploye
 💧: La plateforme de conteneurisation repose sur sept composants principaux.
 Le Docker Engine est un outil client-serveur sur lequel repose la technologie de container pour prendre en charge les tâches de création d’applications basées container.
 
+![image](images/dockermachine-01.png)
+
 
 
 
