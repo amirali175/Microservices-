@@ -6,11 +6,13 @@ de grand-pere (par chance , les 20 pieces y rentrent parfaitement).
 Tu entends un siflement et quelques bruits bizzares et , quelques heures
 plus tard en sortent 10 nouvelles pieces etincelantes de plus.
 
-question
+:wall:question
+---------------
 :one:Combien de pieces aurais-tu dans ton coffre a tresor
 si tu faisais cela pendant un an ? 
 
-:two: Et maintenant que se passe-t-il si un 
-
+:two: Et maintenant que se passe-t-il si un corbeau decouvre ton tresor et 
+entre chaque semaine dans ta chambre pour voler 3 pieces ?
+Au bout d'une annee de ce jeu-la , combien te resterait-il de pieces ? voici a quoi  ressemble les caluls dans le shell :
 
 
