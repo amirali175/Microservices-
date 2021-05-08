@@ -14,6 +14,6 @@ si tu faisais cela pendant un an ?
 
 :two: Et maintenant que se passe-t-il si un corbeau decouvre ton tresor et 
 entre chaque semaine dans ta chambre pour voler 3 pieces ?
-Au bout d'une annee de ce jeu-la , combien te resterait-il de pieces ? voici a quoi  ressemble les caluls dans le shell :
+Au bout d'une annee de ce jeu-la , combien te resterait-il de pieces ? 
 
 
