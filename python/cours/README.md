@@ -1,1 +1,12 @@
+## Equation a resoudre
+Imaganions que tu creuses dans le fond du jardin et que tu y trouves un sac
+contenant 20 pieces d'or. le lendemain, tu te faufiles a la cave pour
+les places dans la machine a dupliquer a vapeur de ton genial inventeur
+de grand-pere (par chance , les 20 pieces y rentrent parfaitement).
+Tu entends un siflement et quelques bruits bizzares et , quelques heures
+plus tard en sortent 10 nouvelles pieces etincelantes de plus.
+
+question
+Combien de pieces aurais-tu dans ton coffre a tresor
+si tu faisais cela pendant un an ? 
 
