@@ -23,6 +23,7 @@ tu veux  qu'un programme python calcule et stocke le nombre de point obtenus dan
 du genre  << tu as obtenu --- points>> , insere %s a la place de la valeur , puis indique a python  ou aller chercher cette valeur 
 
 monscore = 1000
+
 message = tu as obtenus %s points 
 
 :three: afficher le resultat par print
