@@ -28,4 +28,9 @@ monscore = 1000
 message = tu as obtenus %s points 
 
  afficher le resultat par print
+ 
+ 🀄: Multiplier des chaines 
+ ---------------------------
+ que vaut 10 multiplie par a ? 
+ afficher le resultat par print 
 
