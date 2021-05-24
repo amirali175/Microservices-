@@ -33,4 +33,16 @@ message = tu as obtenus %s points
  ---------------------------
  que vaut 10 multiplie par a ? 
  afficher le resultat par print 
+ 
+🗼: Gerer les problemes de chaines 
+ ----------------------------------
+ 
+ prenom le problematique d'une chaine qui provoque l'affichage d'un message d'erreur ?
+ 
+ chaine_fautive = 'Il dit, "Qu’il est gênant d'être étourdi."'
+SyntaxError: invalid syntax
+
+◾ trouvez la solution de ce problematique ? et affiche la chaine_correcte 
+
+
 
