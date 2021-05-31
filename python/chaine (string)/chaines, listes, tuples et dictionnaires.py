@@ -1,7 +1,9 @@
 
 # la chaine fautive s'ecrit comme ceci
 
-
+chaine_fautive = "Il dit, "Qu'il est gênant d'être étourdi."
+print (chaine_fautive)
+SyntaxError: invalid syntax
 
 # voila la soulution pour affiche correctement la chaine
 # pour resoudre le probleme nous devons utilise le 3 apostrophe (''')
