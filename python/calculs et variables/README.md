@@ -1,4 +1,20 @@
-## Equation a resoudre
+
+## ◼️Decouvrer le variable 
+
+:one:Questions
+Inserer votre nom  dans une variable x et affiche ? et dit le quel type de variables utilisez-vous ? 
+
+Inserer votre age dans une variable y et affiche 
+
+
+
+
+
+
+
+
+
+# Equation a resoudre
 Imaganions que tu creuses dans le fond du jardin et que tu y trouves un sac
 contenant 20 pieces d'or. le lendemain, tu te faufiles a la cave pour
 les places dans la machine a dupliquer a vapeur de ton genial inventeur
