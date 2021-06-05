@@ -2,9 +2,14 @@
 ## ◼️Decouvrer le variable 
 
 :one:Questions
-Inserer votre nom  dans une variable x et affiche ? et dit le quel type de variables utilisez-vous ? 
 
-Inserer votre age dans une variable y et affiche 
+◼️ Inserer votre nom  dans une variable X et affiche ? et dit le quel type de variables utilisez-vous ? 
+
+◼️ Inserer votre age dans une variable Y et affiche ?
+
+◼️ Insere votre nom du pere dans une variable A ?
+
+
 
 
 
