@@ -14,13 +14,22 @@
 
 
 
+
 ## 🕳️: Exercice une liste de nombres
 
 🌳:  Inventer d'une liste de nombre 0 a 9 afficher le resultat ?
 
-🕊️: Afficher le deuxieme et cinquieme nombres ? 
+🕊️: Afficher le deuxieme puis cinquieme nombres de votre liste ? 
 
-:: 
+🔧: Dit nous le sixieme elements de notre liste de nombre 
+
+## Exercice une liste contenir d'autre liste 
+
+🦖:Dans cet exercice nous melangons deux variable (une chaine de caracterer et le nombre ) dans une autre liste nommer maliste et afficher le resultat ? 
+
+
+
+
 
 
 
