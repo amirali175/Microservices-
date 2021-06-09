@@ -23,13 +23,15 @@
 
 🔧: Dit nous le sixieme elements de notre liste de nombre 
 
-## Exercice une liste contenir d'autre liste 
+## 🍯: Exercice une liste contenir d'autre liste 
 
 🦖:Dans cet exercice nous melangons deux variable (une chaine de caracterer et le nombre ) dans une autre liste nommer maliste et afficher le resultat ? 
 
-## Exercice : Ajouter des elements a une liste
+## ⚓ Exercice : Ajouter des elements a une liste
 
 ◼️: Pour ajouter des elements a une liste quel fonction utilisez-vous ?
+
+⚓:  Puis ajouter des elements la liste de votre fruits de mer ?
 
 
 
