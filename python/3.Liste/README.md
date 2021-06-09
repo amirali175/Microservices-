@@ -27,6 +27,13 @@
 
 🦖:Dans cet exercice nous melangons deux variable (une chaine de caracterer et le nombre ) dans une autre liste nommer maliste et afficher le resultat ? 
 
+## Exercice : Ajouter des elements a une liste
+
+◼️: Pour ajouter des elements a une liste quel fonction utilisez-vous ?
+
+
+
+
 
 
 
