@@ -13,3 +13,15 @@ monscore =1000
 message = 'tu as obtenus %s points '
 
 print(message % monscore)
+
+#Multiplier des chaines
+
+print(10* 'a')
+
+
+#  Gerer les problemes de chaines
+
+chaine_correcte = 'Il dit, Qu\'il est gênant d\'être étourdi.'
+
+print(chaine_correcte)
+
