@@ -8,7 +8,7 @@ le noms et le sport favoris est ci-dessous
 
 :two: Quel est le sport preferer de Rabecca Clarke ? 
 
-:three:
+:three: A present, stockons ces informations dans un dictionnaire, avec le nom de personne comme cle et son sport prefere comme valeur.
 
 
 
