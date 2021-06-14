@@ -3,9 +3,14 @@
 ◼️:Cet exercices nous allons decouvrer comme les autres lecons le dictionnaire 
 -----------------------------------------------------------------------------
 
-:one: prenons de personnes et de leurs sports favoris tapez ces informations dans une liste , avec le nom de chaque personne suive de son sport favori ? choisissez 
+:one: prenons de personnes et de leurs sports favoris tapez ces informations dans une liste , avec le nom de chaque personne suive de son sport favori ? 
+le noms et le sport favoris est ci-dessous  
 
-:two: 
+:two: Quel est le sport preferer de Rabecca Clarke ? 
+
+:three:
+
+
 
 
 
