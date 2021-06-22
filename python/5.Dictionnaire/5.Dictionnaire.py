@@ -23,7 +23,7 @@ print(sports_favoris['Rebecca Clarke'])
 # Supprimer la valeur Ethel Smyth dans le dictionnaire ?
 # et quel fonction utilisez-vous ?
 
-del sports_favoris ['Ethel Smyth']
+del sports_favoris ['Ethel Smyth'] # FONCTION DEL 
 print(sports_favoris)
 
 #Remplacer le sport favoris de fotball par Hockey sur glace ,
