@@ -50,6 +50,15 @@ elif note > 12:
 elif note >20:
     print("Genial")
 
+# Combiner des condition
+age = 55
+if age == 10 or age == 11 or age == 12:
+    print("Quel ages-vous ? ")
+    print("Mon ages est 55 ans")
+else:
+    print('pardon')
+
+
 
 
 
