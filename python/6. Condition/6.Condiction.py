@@ -57,8 +57,21 @@ if age == 10 or age == 11 or age == 12:
     print("Mon ages est 55 ans")
 else:
     print('pardon')
+# equipe de france national
 
+#1.Barre de chocolatees
 
+#Creer une instruction if pour verifier que le nombres
+#de barres chocolatees dans la variable Barres_choco est plus
+#petit que 100 ou plus grand que 500.
+#le programme doit afficher (trop peu ou beaucoup trop)
+#quand la condition est vraie.
+
+barres_choco = 50
+if barres_choco < 100 or barres_choco > 500:
+    print('trop peu')
+else:
+    print("beaucoup trop")
 
 
 
