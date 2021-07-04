@@ -73,11 +73,18 @@ if barres_choco < 100 or barres_choco > 500:
 else:
     print("beaucoup trop")
 
+# La somme des nombres
 
+a = 7
+b = 5
 
-
-
-
+la_somme = (a+b)
+if la_somme == 11:
+    print("la somme de la resulat  n'est pas correcte   ")
+else:
+    print("Essayer de trouve le bon resulat encore faire des efforts ")
+if la_somme  ==12:
+    print('la resultat de la somme est' ,la_somme)
 
 
 
