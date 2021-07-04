@@ -14,3 +14,9 @@
 -------------------------------------------
 ◼️: longueur est 9 cm et largeur 3 cm 
 trouve le resultat de perimetre de rectangle 
+
+◼️: longueur est 5 cm et largeur 4 cm 
+trouve le resultat de perimetre de rectangle 
+
+◼️:longueur est 9 cm et largeur 8 cm 
+trouve le resultat de perimetre de rectangle 
