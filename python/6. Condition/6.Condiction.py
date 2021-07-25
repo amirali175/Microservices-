@@ -73,6 +73,7 @@ if barres_choco < 100 or barres_choco > 500:
 else:
     print("beaucoup trop")
 
+
 # La somme des nombres
 
 a = 7
@@ -85,6 +86,14 @@ else:
     print("Essayer de trouve le bon resulat encore faire des efforts ")
 if la_somme  ==12:
     print('la resultat de la somme est' ,la_somme)
+
+#Difference entre nombres et chaines
+
+age = 27
+print(age)
+
+
+
 
 
 
