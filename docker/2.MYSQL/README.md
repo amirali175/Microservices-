@@ -23,5 +23,9 @@ cliquer ce lien https://docs.docker.com/desktop/windows/install/
 
 ![](images/1.2.PNG)
 
+3️⃣ Verifions si le conteneur a ete cree avec succes 
+---------------------------------------------------
+
+![](images/1.3.PNG)
 
 
