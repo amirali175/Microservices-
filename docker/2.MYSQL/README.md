@@ -8,4 +8,4 @@ cliquer ce lien https://docs.docker.com/desktop/windows/install/
 
 Pour valider l'installation de docker , executez simplement la commande ci-dessous : 
 
-![].(images/1.0.png)
+![].(images/1.0.PNG)
