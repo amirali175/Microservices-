@@ -32,4 +32,8 @@ cliquer ce lien https://docs.docker.com/desktop/windows/install/
 -----------------------------------
 ![](images/1.4.PNG)
 
+5️⃣ Demarrez le shell MYSQL 
+---------------------------
+
+![](images/1.5.PNG)
 
