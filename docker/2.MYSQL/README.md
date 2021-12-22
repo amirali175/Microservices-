@@ -17,6 +17,10 @@ cliquer ce lien https://docs.docker.com/desktop/windows/install/
 
 ![](images/1.1.PNG)
 
+2️⃣ Demarrez le conteneur avec l'image telechargee 
+---------------------------------------------------
+
+![](images/1.2.PNG)
 
 
 
