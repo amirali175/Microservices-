@@ -40,3 +40,7 @@ cliquer ce lien https://docs.docker.com/desktop/windows/install/
 6️⃣  Afficher les bases de  donnees 
 ----------------------------------
 ![](images/1.6.PNG)
+
+7️⃣ creer le root 
+-----------------
+![](images/1.7.PNG)
