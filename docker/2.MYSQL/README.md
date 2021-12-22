@@ -4,7 +4,8 @@
 --------------------------------------------------------------------------------------------------------------------------
 ◾ Prerequis : Installer Docker 
 ------------------------------
-⚠️Je vous conseil d'utuliser gitbash 
+❗ Je vous conseil d'utuliser gitbash pour executer les commandes 
+
 cliquer ce lien https://docs.docker.com/desktop/windows/install/
 
 0️⃣ Pour valider l'installation de docker , executez simplement la commande ci-dessous : 
