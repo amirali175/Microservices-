@@ -37,3 +37,6 @@ cliquer ce lien https://docs.docker.com/desktop/windows/install/
 
 ![](images/1.5.PNG)
 
+6️⃣  Afficher les bases de  donnees 
+----------------------------------
+![](images/1.6.PNG)
