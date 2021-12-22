@@ -41,6 +41,10 @@ cliquer ce lien https://docs.docker.com/desktop/windows/install/
 ----------------------------------
 ![](images/1.6.PNG)
 
-7️⃣ creer le root 
+7️⃣ creer le root localhost
 -----------------
 ![](images/1.7.PNG)
+
+8️⃣  Se connectez via MYSQL WORKBENCH  
+-------------------------------------
+![](images/1.8.PNG)
