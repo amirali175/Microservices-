@@ -8,10 +8,14 @@
 cliquer ce lien https://docs.docker.com/desktop/windows/install/
 
 0️⃣ Pour valider l'installation de docker , executez simplement la commande ci-dessous : 
+----------------------------------------------------------------------------------------
 
 ![](images/1.0.PNG)
 
 1️⃣ Telecharger la dernier version de l'image MYSQL disponnible 
+----------------------------------------------------------------
+
+![](images/1.1.PNG)
 
 
 
