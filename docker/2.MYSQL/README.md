@@ -28,4 +28,8 @@ cliquer ce lien https://docs.docker.com/desktop/windows/install/
 
 ![](images/1.3.PNG)
 
+4️⃣ Connectez-vous au conteneur cree 
+-----------------------------------
+![](images/1.4.PNG)
+
 
