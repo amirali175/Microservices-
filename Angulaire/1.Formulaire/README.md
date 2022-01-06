@@ -13,7 +13,7 @@
 ◾ Créez un nouveau projet nommé formulaire-007 :
 -------------------------------------------------
 ```
-ng new angular-forms
+ng new formulaire-007
 ```
 
 ◾ Créer la classe de modèle User 
