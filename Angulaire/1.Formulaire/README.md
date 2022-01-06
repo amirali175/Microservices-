@@ -21,3 +21,10 @@ ng new angular-forms
 ```
 ng generate class User
 ```
+
+◾ Créer un composant de formulaire
+----------------------------------
+``` 
+ng generate component register
+```
+
