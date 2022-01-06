@@ -8,7 +8,7 @@
 ◾Liez les propriétés de données à chaque contrôle de formulaire à l'aide de la syntaxe de liaison de données bidirectionnelle ngModel.
 
 
-1️⃣ installer 
+1️⃣ installer  ``` ```
 -------------
 ◾ Créez un nouveau projet nommé formulaire-007 :
 -------------------------------------------------
@@ -16,3 +16,8 @@
 ng new angular-forms
 ```
 
+◾ Créer la classe de modèle User 
+--------------------------------
+```
+ng generate class User
+```
