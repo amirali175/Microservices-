@@ -12,4 +12,6 @@
 -------------
 ◾ Créez un nouveau projet nommé formulaire-007 :
 -------------------------------------------------
-'ng new formulaire-007'
+'''
+ng new angular-forms
+'''
