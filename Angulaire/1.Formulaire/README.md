@@ -2,7 +2,7 @@
 
 0️⃣ Nous allons créer ce formulaire par petites étapes :
 -------------------------------------------------------
-◾ Créez la classe de modèle Hero.
+◾ Créez la classe de modèle User.
 ◾ Créez le composant qui contrôle le formulaire.
 ◾ Créez un modèle avec la mise en page initiale du formulaire.
 ◾Liez les propriétés de données à chaque contrôle de formulaire à l'aide de la syntaxe de liaison de données bidirectionnelle ngModel.
