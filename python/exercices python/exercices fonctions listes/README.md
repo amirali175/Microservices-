@@ -5,7 +5,7 @@
 💥  Création de liste en utilisant différentes fonctions des méthodes (append et len)
 -----------------------------------------------------------------------------------
 
-◼️ creer une liste vide puis predifinir cette liste un nombre entier  léatoire 1 a 9 ?
+◼️ creer une liste vide puis predifinir cette liste un nombre entier  aléatoire 1 a 9 ?
 
 ◼️ Puis ajouter a votre liste un nombre suivante 10 ? dit le quelle methode utiliser ? 
 
