@@ -29,15 +29,24 @@
 💥 Manipulation différentes fonctions des méthodes ( remove et pop ) avec la chaine de caractere (string)
 ----------------------------------------------------------------------------------------
 
-◼️  Creer un liste des noms suivantes sont : ( David, Gerarde , Bahar , Natali , Morti , Zoureni , Secou )
+◼️  Creer un liste des noms suivantes sont : ( David, Gerarde , Bahar , Natali , Morti , Zoureni , Secou , David , Natali )
 
-◼️  Suprimer la chaine caractere de la 4e position de la liste ci-dessus ? remplacer par bilan 
+◼️  Suprimer la chaine caractere de la 4e position de la liste ci-dessus ? remplacer par bilane 
 
 ◼️  Afficher la resultat ?
 
 ◼️  Enlever de la liste l'element situe a la position 1 ?
 
 ◼️ Afficher la resulat ?
+
+
+
+💥 Manipulation différentes fonctions des méthodes (index et count ) 
+---------------------------------------------------------------------
+
+◼️ animaux = 
+
+
 
 
 
