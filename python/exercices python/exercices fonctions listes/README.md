@@ -44,7 +44,20 @@
 💥 Manipulation différentes fonctions des méthodes (index et count ) 
 ---------------------------------------------------------------------
 
-◼️ animaux = 
+◼️ Nous inventons une liste des animaux suivantes : ( dog , cat, horse, rabbit, cat , lion)
+
+◼️ Indique quel position est situe "horse" dans la liste des animaux ? quel methode utilisez vous ?
+
+◼️ Puis afficher le resulat ?
+
+◼️ Combien de fois ce repete le nom "cat" dans la liste ? quel methode utilisez vous 
+
+◼️ Afficher le resultat 
+
+
+
+
+
 
 
 
