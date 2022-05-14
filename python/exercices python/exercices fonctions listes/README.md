@@ -2,6 +2,10 @@
 # 0️⃣ Les listes a une dimension 
 -------------------------------
 
+## 🖌️ Intrdoduction
+------------------
+
+
 💥  Création de liste en utilisant différentes fonctions des méthodes (append et len)
 -----------------------------------------------------------------------------------
 
