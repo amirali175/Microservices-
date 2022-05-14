@@ -4,7 +4,7 @@
 
 ## 🖌️ Intrdoduction
 ------------------
-
+Une liste en Python est une structure de données linéaire qui peut contenir des éléments hétérogènes qu'il n'est pas nécessaire de déclarer et qui est flexible pour se réduire et s'agrandir.
 
 💥  Création de liste en utilisant différentes fonctions des méthodes (append et len)
 -----------------------------------------------------------------------------------
