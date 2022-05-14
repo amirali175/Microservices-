@@ -17,5 +17,10 @@
 
 ◼️ rajouter l'elements 11 et 12 a votre liste principale ? 
 
+◼️ insere l'element 0 a la troisieme position de votre liste ?
+
+◼️ ensuite afficher le resultat de votre liste ?
+
+
 
 
