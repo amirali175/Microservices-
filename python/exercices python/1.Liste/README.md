@@ -1,4 +1,3 @@
-
 # 0️⃣ Les listes a une dimension 
 -------------------------------
 
@@ -57,6 +56,7 @@ Une liste en Python est une structure de données linéaire qui peut contenir de
 ◼️ Combien de fois ce repete le nom "cat" dans la liste ? quel methode utilisez vous 
 
 ◼️ Afficher le resultat 
+
 
 
 
