@@ -17,4 +17,4 @@ a l'apparition de docker les machines se sens moin sature et que les utilisateur
 $ docker pull jlesage/firefox
 ```
 
-
+![](images/1.0.PNG)
