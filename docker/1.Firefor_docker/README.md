@@ -3,6 +3,7 @@
 
 ## 💥: Pour le but de ce tutorial est ouvrir le browser firefox dans docker container 
 intro 
+Demarrage rapide 
 
 
 constament a notre ordinateur est sature a cause de telecharger des plusieurs applicactions parfois l'ordinateur se ralentir.
@@ -18,3 +19,11 @@ $ docker pull jlesage/firefox
 ```
 
 ![](images/1.0.PNG)
+
+🧑‍⚖ deuxieme etape creer le container du browser firefox 
+-----------------------------------------------------
+
+```
+$ docker container run --name firefox -publish 5800:5800 --detach jlesage/firefox 
+```
+![](images/1.1.PNG)
