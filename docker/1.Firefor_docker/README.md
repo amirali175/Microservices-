@@ -26,7 +26,7 @@ $ docker pull jlesage/firefox
 ```
 $ docker container run --name firefox -publish 5800:5800 --detach jlesage/firefox 
 ```
-docker container c'est la ou que l'image s'installe firefox 
-name firefox permet identifier le nom du container  
-publish 5800:5800 c'est le chemin d'acces du navigateur 
+◾ docker container c'est la ou que l'image s'installe firefox 
+◾ name firefox permet identifier le nom du container  
+◾ publish 5800:5800 c'est le chemin d'acces du navigateur 
 ![](images/1.1.PNG)
