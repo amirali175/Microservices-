@@ -1,0 +1,58 @@
+
+
+<h1>Formulaire restriction </h1>
+<h2>Informations Personnelles</h2>
+        <!--Genre -->
+<div>
+<label class for="genre" name = "genre">Genre
+    
+    <input type = "radio">
+    <label class  for = "homme">Homme</label>
+    <input type="radio" >
+<label class for ="femme">Femme</label>
+</label><br> 
+</div>
+    <!-- Nom de famille -->
+<div>
+<label class for ="lastname">Nom_de_famille:</label>
+<input type="text" class= "form-control" id="lastname" placeholder="" required [(ngModel)]= "model.Nom_de_famille">
+</div>
+
+    <!--Prenom-->
+<div>
+    <label class = "firstname" >Prenom:</label>
+    <input type="text" class="form-control" id = "firstname" placeholder="" required [(ngModel)]="model.Prenom">
+</div>
+      <!--Date de naissance-->
+<div>
+    <label class for = "birthday">Date_de_naissance:</label>
+    <input type="date" class="form-control" id="birthday" placeholder="" required [(ngModel)]= "model.Date_de_naissance" >
+</div>
+<!-- Ville de naissance-->
+<div>
+    <label class for ="city">Ville_de_naissance:</label>
+    <input type = "city" class="form-control" id= "city" placeholder="" required [(ngModel)]= "model.Ville_de_naissance">
+</div>
+<!--Pays de naissance-->
+<div>
+    <label class=" country-birth"> Pays_de_naissance:</label>
+    <input type ="country">
+
+</div>
+
+<!--Nationalite-->
+<div>
+    <label class = "Nationality">Nationalite:</label>
+    <input type ="text">
+</div>
+
+<!-- Passport-->
+
+<div>
+    <label class for ="passport">Passport:</label>
+    <input type = "text">
+</div>
+
+<!--Soumettre-->
+
+<button>Submet</button>

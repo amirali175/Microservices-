@@ -31,6 +31,9 @@ for b in range(2) : #
     a+= b  # ici sert a faire l'addition des la variable a+b 
     
     print (a) # afficher la sommes 
+    
+    
+
 
 
 

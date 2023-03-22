@@ -1,0 +1,63 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Dec 26 09:31:35 2022
+
+@author: Amir
+"""
+
+""" 
+La fonction lambda  
+
+"""
+
+# lambda est un fonction anonyme n'a pas de cle- retour. 
+#En effet, la fonction anonyme renverra automatiquement 
+#le résultat de l'expression dans la fonction une fois qu'elle sera exécutée.
+
+
+""" 
+esseyons avec les operateurs 
+"""
+
+#Operateur sommes 
+
+sommes = lambda a,b : a+b 
+print (sommes(5,6))
+
+#Operateur addictions
+
+soustractions = lambda a,b : a-b
+
+print(soustractions(5, 6))
+
+
+# Operateur multiples 
+
+
+multiples = lambda a,b : a*b
+
+print(multiples(5,6))
+
+# Operateur division 
+
+div = lambda a,b : a/b
+
+print (div( 15, 5))
+
+
+
+
+# creer une liste  de numero 
+
+list_num = [1,2,3,4,5,6]
+
+list_num = map (lambda x : x*10 , list_num)
+
+
+for x in list_num :
+    
+    print (x,)
+
+
+
+
