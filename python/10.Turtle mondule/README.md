@@ -8,8 +8,7 @@ Introduction : le module tortue est un mode graphique permet a dessiner tracer u
 programation.
 
 '''
-h
-
-'''\
+jh
+'''
 
 
