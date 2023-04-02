@@ -55,3 +55,33 @@ for i in range(4):
     turtle.forward(100)
     turtle.left(90)
 ```
+
+◾ Cette fois nous utilissons la fonction input pour dessiner un carre 
+```
+carre= turtle.Turtle()
+
+
+PerimaitreAB= int(input('entre la mesure du cote AB:'))
+
+PerimaitreDC= int(input('entre la mesure du cote DC:'))
+
+PerimaitreAC= int(input('entre la mesure du cote AC:'))
+
+PerimaitreBD= int(input('entre la mesure du cote BD:'))
+
+
+carre.forward(PerimaitreAB)
+carre.left(90)
+carre.forward(PerimaitreDC)
+carre.left(90)
+
+
+
+carre.forward(PerimaitreAC)
+carre.left(90)
+carre.forward(PerimaitreBD)
+carre.left(90)
+```
+
+## :one: Exercice 1
+
