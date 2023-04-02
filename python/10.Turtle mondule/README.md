@@ -84,4 +84,16 @@ carre.left(90)
 ```
 
 ## :one: Exercice 1
+-------------------
+
+Ecrivez un programation pour dessiner un triangle avec la methode input et boucler for 
+```
+import turtle
+
+window = turtle.Screen()
+window.setup(500, 500)
+
+triangle = triangle.Turtle()
+## ecrivez votre programation ici ##
+```
 
