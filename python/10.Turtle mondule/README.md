@@ -30,7 +30,7 @@ windows = turtle.Turtle()
 window = turtle.Screen()
 window.setup(500, 500)
 
-# tracer un sergment 100 unite vers droite
+# tracer un sergment 100 unite vers droite et tourne la fliche a gauche 90 degrees
 
 turtle.forward (100)
 turtle.left(90)
@@ -39,4 +39,19 @@ turtle.left(90)
 turtle.forward(100)
 turtle.left(90)
 ```
+◾ Dessiner un carre a l'aide module turtle avec la boucle for et range 
 
+```
+import turtle 
+
+windows = turtle.Turtle()
+
+window = turtle.Screen()
+window.setup(500, 500)
+
+
+for i in range(4):
+    
+    turtle.forward(100)
+    turtle.left(90)
+```
