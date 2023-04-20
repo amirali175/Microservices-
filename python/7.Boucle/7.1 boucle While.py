@@ -9,7 +9,7 @@ Created on Sun Apr 16 18:46:07 2023
 
 # Ecrire un programme qui affiche tant que la boucle est vrai 
 
-nombre = 0 
+nombre = 0
 
 while nombre < 6:
     
@@ -17,6 +17,4 @@ while nombre < 6:
     
     nombre+=1
     
-
-
 
