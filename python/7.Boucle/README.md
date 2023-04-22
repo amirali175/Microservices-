@@ -31,3 +31,12 @@ while variable x < 10 :
  ```
  
 ## ◼️ exemple : Écrivez un programme pour afficher tous les nombres naturels en sens inverse de n à 1 en utilisant la boucle for et while.
+```
+n = int (input("saisir un nombre"))
+print ( "le nombre nature de {0} a 1".format(n))
+
+for i in range (n,0,-1):
+ print (i, "end = ' ')
+ 
+```
+```
