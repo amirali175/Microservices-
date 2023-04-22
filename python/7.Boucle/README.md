@@ -30,4 +30,4 @@ while variable x < 10 :
  print (variable x )
  ```
  
-## :star: 
+## :squar: 
