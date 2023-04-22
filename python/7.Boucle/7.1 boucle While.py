@@ -20,7 +20,7 @@ while nombre <10:
     """
 
 
-
+"""
 y = 0
 x =0 
 while True:
@@ -39,7 +39,7 @@ while True:
         print("rentre le bon numero!")
 
 
-
+"""
     
  
           
@@ -69,6 +69,7 @@ while True:
         print('The integer must be in the range 1-5')
         
 '''
+
 
 
 
