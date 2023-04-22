@@ -30,4 +30,4 @@ while variable x < 10 :
  print (variable x )
  ```
  
-## :squar: 
+## ◼️ exemple : Écrivez un programme pour afficher tous les nombres naturels en sens inverse de n à 1 en utilisant la boucle for et while.
