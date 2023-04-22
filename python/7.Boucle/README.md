@@ -1,4 +1,4 @@
-## 🔖: Presentation des boucles en python 
+# 🔖: Presentation des boucles en python 
 
 
 Les boucles vont nous permettre d’exécuter plusieurs fois un bloc de code, c’est-à-dire d’exécuter un code « en boucle » tant qu’une condition donnée est vérifiée.
@@ -18,4 +18,4 @@ Le fonctionnement général des boucles sera toujours le même : on pose une con
 Pour éviter de rester bloqué à l’infini dans une boucle, vous pouvez donc déjà noter qu’il faudra que la condition donnée soit fausse à un moment donné (pour pouvoir sortir de la boucle). Selon le type de condition, on va avoir différents moyens de faire cela. Nous allons voir les plus courants dans la suite de cette leçon.
 
 
-# :one:La boucle Python while
+## :one:La boucle Python while
