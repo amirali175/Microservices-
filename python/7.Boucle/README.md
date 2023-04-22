@@ -21,10 +21,13 @@ Pour éviter de rester bloqué à l’infini dans une boucle, vous pouvez donc d
 ## :one:La boucle Python while
 La boucle while va nous permettre d’exécuter un certain bloc de code « tant qu’une » condition donnée est vrai. Sa syntaxe est la suivante :
 
+Ecrire un programme qui afficher tant que variable x est inferieur a 10   
 ```
-variable = 0
-while variable < 10 : 
- x = x+1
+variable x = 0
+while variable x < 10 : 
+ vriable x = variable x + 1
  
- print (x)
+ print (variable x )
  ```
+ 
+## :star: 
