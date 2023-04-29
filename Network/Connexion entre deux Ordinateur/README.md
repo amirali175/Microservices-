@@ -1,7 +1,7 @@
 
-## :book: Comment relier deux ordinateurs en réseau
+# :book: Comment relier deux ordinateurs en réseau
 
-# ⭐ Objectif: 
+## ⭐ Objectif: 
 
 ◾ Se familiariser avec les fonctions de base de Packet Tracer
 ----------------------------------------------------------------
