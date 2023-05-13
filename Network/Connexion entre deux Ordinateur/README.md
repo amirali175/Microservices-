@@ -30,6 +30,11 @@ voyons un exemple :  relies deux ordinateurs a l'aide cable croise
 ![image](https://github.com/amirali175/Microservices-/assets/54910751/9cc31325-bede-4f88-b643-d23c917aa985)
 
 
+Conclusion 
+
+l'informatique est un Équipement interconnecté entre eux pour envoyer et recevoir des informations
+
+
 
 🍪:Etape 3 : Relies un cable croise 
 -------------------------------
