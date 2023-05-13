@@ -28,3 +28,11 @@ voyons un exemple :  relies deux ordinateurs a l'aide cable croise
 💀:PC-B
 ----
 ![image](https://github.com/amirali175/Microservices-/assets/54910751/9cc31325-bede-4f88-b643-d23c917aa985)
+
+
+🍪:Etape 3 : Relies un cable croise 
+-------------------------------
+
+![image](https://github.com/amirali175/Microservices-/assets/54910751/5e9ca7d6-200d-4b10-96ad-a6aad78f1a6d)
+
+
