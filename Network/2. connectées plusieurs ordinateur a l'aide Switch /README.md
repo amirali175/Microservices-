@@ -2,6 +2,6 @@
 
 Tableaux d'adressage 
 
-|  Apareil| Interface|
-|---------|----------|
+|  Apareil| Interface| Adresse IP|
+|---------|----------|-----------|
 
