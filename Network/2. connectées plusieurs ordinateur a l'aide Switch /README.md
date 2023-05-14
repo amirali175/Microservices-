@@ -2,6 +2,6 @@
 
 Tableaux d'adressage 
 
-|  Apareil| Interface| Adresse IP|
-|---------|----------|-----------|
+|  Apareil| Interface| Adresse IP| Masque de sous-réseau |VLAN |
+|---------|----------|-----------|-----------------------|-----|
 
