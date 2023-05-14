@@ -2,8 +2,8 @@
 
 Tableaux d'adressage 
 
-|  Salles des professeur |
-|---------|
+|  Salles des professeur |Interface|	Adresse IP|	Masque de sous-réseau	VLAN|
+|---------| -------------|----------|-----------|---------------------------|
 |  PC1    |
 |  PC2    |
 |  PC3    |
