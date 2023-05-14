@@ -2,9 +2,9 @@
 
 Tableaux d'adressage 
 
-|  Apareil|
+|  Salles des professeur |
 |---------|
-| PC1      |
-  |PC2      |
-| PC3      |
-| PC4      |
+|  PC1    |
+|  PC2    |
+|  PC3    |
+|  PC4    |
