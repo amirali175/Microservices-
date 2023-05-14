@@ -2,6 +2,6 @@
 
 Tableaux d'adressage 
 
-|  Apareil| Interface| Adresse IP| Masque de sous-réseau |VLAN |
-|---------|----------|-----------|-----------------------|-----|
-
+|  Apareil| Interface| Adresse IP   | Masque de sous-réseau |VLAN    |
+|---------|----------|--------------|-----------------------|--------|
+|PC 1     |NIC       |172.17.10.21  | 255.255.255.0         | 10     |
