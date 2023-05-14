@@ -2,6 +2,6 @@
 
 Tableaux d'adressage 
 
-|  Apareil|
-|---------|
+|  Apareil| Interface|
+|---------|----------|
 
