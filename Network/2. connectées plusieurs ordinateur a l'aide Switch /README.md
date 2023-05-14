@@ -4,4 +4,5 @@ Tableaux d'adressage
 
 |  Apareil|
 |---------|
-|
+|PC1
+|---------|
