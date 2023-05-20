@@ -4,4 +4,5 @@ Tableaux d'adressage
 
 |  Apareil| Interface| Adresse IP   | Masque de sous-réseau |VLAN    |
 |---------|----------|--------------|-----------------------|--------|
-|PC-Maths |NIC       |172.17.10.21  | 255.255.255.0         | 10     |
+|PC-1     |          |ip addresse DHCP | 255.255.255.0         | 10     |
+|PC-2
