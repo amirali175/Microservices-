@@ -16,6 +16,3 @@ Le nom de l'entreprise Xcamp
 
 🪕 Configures les servers (DNS, EMAIL,DHCP)
 ---------------------------------------------
-
-server DNS
----------
