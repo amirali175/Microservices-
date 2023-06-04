@@ -40,11 +40,20 @@ Vous devez creer un tas de vlan.
 
 ◾Mode server sur le commutateur Xc
 ------------------------------------
+
+C’est le mode par défaut de tous les commutateurs niveau 2 de CISCO. Le commutateur-serveur propage les VLANs et leurs paramètres aux autres commutateurs ‘client’ du même domaine VTP. Le serveur-commutateur enregistre les informations des VLANs dans sa NVRAM. On peut créer, supprimer et renommer les VLANs tout en propageant ces changements aux autres commutateurs du réseau via des paquets ‘vtp advertisement’. Un exemple de la syntaxe de la configuration VTP est :
+
+```
+Un exemple de la syntaxe de la configuration VTP est :
+Switch(config)#vtp mode server
+Device mode already VTP SERVER.
+Switch(config)#vtp domain LA_CLASSE
+Changing VTP domain name from NULL to LA_CLASSE
+```
 commande de configuration commutateur Xc 
 -----------------------------------------
 
 ```
-
 
 ```
 
