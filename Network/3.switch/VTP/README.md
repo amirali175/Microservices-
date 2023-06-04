@@ -31,3 +31,8 @@ Vous devez creer un tas de vlan.
 🌠 Assurez-vous qu'il n'y pas trafic VLAN inutile inonde sur les liaisons principales.
 
 # Je vous souhaite d'avoir Bonne Pratiquer 
+
+
+## 🥢 Topologie 
+
+![image](https://github.com/amirali175/Microservices-/assets/54910751/c4049dcd-7628-4efd-a1b1-b9cb774120d7)
