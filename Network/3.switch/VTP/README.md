@@ -52,9 +52,43 @@ Changing VTP domain name from NULL to LA_CLASSE
 ```
 commande de configuration commutateur Xc 
 -----------------------------------------
+◼️Etape 1: choix de version
+```
+Switch(config)#vtp  version 2
+```
+◼️Etape 2:Specifier le nom de domaine VTP
 
 ```
+Switch(config)#vtp domain xcamp 
+```
+◼️Etape 3: Choisir le mode de notre commutateur (switch)
+```
+Switch(config)#vtp mode server
+```
+◼️Etape 4: Securiser le protocole VTP
+```
+Switch(config)#vtp password Terminal@11
+```
+◼️Etape 5: Creer les VLAN sur le commutateur Xc VTP
+l'admistrateur devra creer manuellement les vlan sur le commutateur  en mode server vtp:
 
 ```
+Switch(config)#vlan 10
+Switch(config-vlan)#name eleves
+
+Switch(config)#vlan 20 
+Switch(config-vlan)#name profs 
+```
+◼️ commande show vlan permet afficher les vlan qui a etaient creer par l'admistrateur 
+```
+Switch#show vlan 
+```
+![image](https://github.com/amirali175/Microservices-/assets/54910751/2135b7d8-97d7-4c1e-bc6c-d9d98a0b20ae)
+
+
+
+
+
+
 
 
