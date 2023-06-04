@@ -6,7 +6,7 @@ Vous devez creer un tas de vlan.
 
 ◼️ Buts :
 
-▪️creez les Vlan suivant sur le commutateur Server :  
+▪️creez les Vlan suivant sur le commutateur Xc :  
 
 ▪️Vlan 10 : Nom Eleves.
 
@@ -35,4 +35,17 @@ Vous devez creer un tas de vlan.
 
 ## 🥢 Topologie 
 
-![image](https://github.com/amirali175/Microservices-/assets/54910751/c4049dcd-7628-4efd-a1b1-b9cb774120d7)
+![image](https://github.com/amirali175/Microservices-/assets/54910751/6fa5d96a-1118-4f49-bdeb-4367a71a05d2)
+
+
+◾Mode server sur le commutateur Xc
+------------------------------------
+commande de configuration commutateur Xc 
+-----------------------------------------
+
+```
+
+
+```
+
+
