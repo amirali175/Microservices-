@@ -7,11 +7,19 @@ Vous devez creer un tas de vlan.
 ◼️ Buts :
 
 ▪️creez les Vlan suivant sur le commutateur Server :  
+
 ▪️Vlan 10 : Nom Eleves 
 
 ▪️Vlan 20 : Nom profs
 
 ▪️Vlan : Nom invites 
+
+▪️Configurez les interfaces entre commutateur en tant que jonctions.
+
+▪️Configurez le commutateur "X"c comme serveur VTP 
+
+▪️Configurez le commutateur ""
+
 
 
 
