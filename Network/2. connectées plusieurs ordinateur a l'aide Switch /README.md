@@ -57,7 +57,7 @@ Switch-central(config-line)#password Terminal@12
 Switch-central(config-line)#login 
 Switch-central(config-line)#exit
 ```
-🧮 Configure Vlan via interface ports 
+🧮 Configure Vlan via interface ports (Statique)
 -------------------------------------
 ◾ attribue le vlan 10 les ports interface 0/1 a 0/8
 ```
