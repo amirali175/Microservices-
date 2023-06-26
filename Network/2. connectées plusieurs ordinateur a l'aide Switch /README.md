@@ -12,7 +12,8 @@ Le nom de l'entreprise Xcamp
 🍡  architecture Xcamp
 --------------------------
 
-![image](https://github.com/amirali175/Microservices-/assets/54910751/209637aa-5bea-4989-bd47-f47c5273dbad)
+![image](https://github.com/amirali175/Microservices-/assets/54910751/329ed32e-82f0-4fed-95f0-5b13ffaf9ec4)
+
 
 🪕 Configures les servers (DNS, EMAIL,DHCP)
 ---------------------------------------------
