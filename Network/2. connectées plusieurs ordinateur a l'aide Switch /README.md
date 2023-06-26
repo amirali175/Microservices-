@@ -59,14 +59,14 @@ Switch-central(config-line)#exit
 ```
 🧮 Configure Vlan via interface ports 
 -------------------------------------
-attribue le vlan 10 les ports interface 0/1 a 0/8
+◾ attribue le vlan 10 les ports interface 0/1 a 0/8
 ```
 Switch-central(config)#interface range fastEthernet 0/1-8
 Switch-central(config-if-range)#switchport mode access 
 Switch-central(config-if-range)#vlan 10
 Switch-central(config-vlan)#exit
 ```
-attribue vlan 50 interface 0/10 a 0/15
+◾ attribue vlan 50 interface 0/10 a 0/15
 ```
 Switch-central(config)#interface range fastEthernet 0/10-15
 Switch-central(config-if-range)#switchport mode access 
@@ -74,7 +74,7 @@ Switch-central(config-if-range)#vlan 50
 Switch-central(config-vlan)#exit
 ```
 
-attribue vlan 20 interface 0/17 a 0/19
+◾ attribue vlan 20 interface 0/17 a 0/19
 ```
 Switch-central(config)#interface range fastEthernet 0/17-19
 Switch-central(config-if-range)#switchport mode access 
@@ -82,7 +82,7 @@ Switch-central(config-if-range)#vlan 20
 Switch-central(config-vlan)#exit
 ```
 
-attribue vlan 30 interface 0/21 a 0/23
+◾ attribue vlan 30 interface 0/21 a 0/23
 ```
 Switch-central(config)#interface range fastEthernet 0/21-23
 Switch-central(config-if-range)#switchport mode access 
