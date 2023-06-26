@@ -57,3 +57,12 @@ Switch-central(config-line)#password Terminal@12
 Switch-central(config-line)#login 
 Switch-central(config-line)#exit
 ```
+🧮 Configure Vlan via interface ports 
+-------------------------------------
+attribue le vlan 10 les ports interface 0/1 a 0/8
+```
+Switch-central(config)#interface range fastEthernet 0/1-8
+Switch-central(config-if-range)#switchport mode access 
+Switch-central(config-if-range)#vlan 10
+Switch-central(config-vlan)#exit
+```
