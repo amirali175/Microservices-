@@ -24,3 +24,10 @@ Un domaine de collision est un ensemble d’entités (cartes réseaux) qui parta
 4 personnes utilisent chacun un talkie-walkie pour communiquer. Les spécificités du talkie-walkie sont telles qu’une seule personne peut parler à un instant T. Si deux personnes parlent en même temps, les signaux sont corrompus et on ne comprend rien à la communication. On dit alors que ces personnes sont dans le même domaine de collision.
 
 Dans le monde des réseaux, si deux entités sont dans le même domaine de collision et envoient des données à un instant T alors il y a corruption des données et il faut retransmettre les données.
+
+◼️: repartitionne  les differentes departement a l'aide VLAN
+------------------------------------------------------
+
+Un VLAN est un sous-réseau logique de périphériques dans un domaine de diffusion, partitionné par des commutateurs réseau et/ou un logiciel de gestion de réseau, qui peut agir en propre comme un réseau local LAN distinct. Les commutateurs qui prennent en charge les VLAN offrent aux gestionnaires de réseau la possibilité de créer des segments de réseau virtuels flexibles, indépendants de la topologie physique filaire ou sans fil sous-jacente. Les VLAN fonctionnent soit au niveau de la couche de liaison de données Layer 2, soit au niveau de la couche réseau Layer 3, en fonction de la conception du réseau. Différents protocoles réseau prennent en charge les VLAN. C’est le cas notamment de l’Ethernet et du WiFi.
+
+
