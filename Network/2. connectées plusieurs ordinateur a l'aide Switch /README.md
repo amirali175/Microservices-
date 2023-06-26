@@ -30,4 +30,30 @@ Dans le monde des réseaux, si deux entités sont dans le même domaine de colli
 
 Un VLAN est un sous-réseau logique de périphériques dans un domaine de diffusion, partitionné par des commutateurs réseau et/ou un logiciel de gestion de réseau, qui peut agir en propre comme un réseau local LAN distinct. Les commutateurs qui prennent en charge les VLAN offrent aux gestionnaires de réseau la possibilité de créer des segments de réseau virtuels flexibles, indépendants de la topologie physique filaire ou sans fil sous-jacente. Les VLAN fonctionnent soit au niveau de la couche de liaison de données Layer 2, soit au niveau de la couche réseau Layer 3, en fonction de la conception du réseau. Différents protocoles réseau prennent en charge les VLAN. C’est le cas notamment de l’Ethernet et du WiFi.
 
+🏴 Configurer correctement un commutateur Cisco signifie que votre réseau peut établir des connexions efficacement. Dans ce guide étape par étape, nous vous expliquons comment configurer les commutateurs Cisco et examinons certaines FAQ.
 
+
+🌀 Entrez en mode EXEC privilégié et définissez un nom d'hôte pour le commutateur
+-----------------------------------------------------------------------------------
+```
+Switch>enable
+Switch#configure terminal
+Switch(config)#hostname Switch-central 
+```
+👼 Attribuez un mot de passe au commutateur
+--------------------------------------------
+```
+Switch-central(config)#enable secret cisco11
+```
+
+🏺 Configurer les mots de passe Telnet et d'accès à la console
+---------------------------------------------------------------
+L'étape suivante consiste à configurer les mots de passe pour Telnet et l'accès à la console. La configuration des mots de passe pour ceux-ci est importante car elle rend votre commutateur plus sécurisé. Si quelqu'un sans autorisation obtient un accès telnet, cela met votre réseau en danger. Vous pouvez configurer des mots de passe en saisissant les lignes suivantes (voir le paragraphe du haut pour Telnet et le paragraphe du bas pour l'accès à la console).
+
+
+```
+Switch-central(config)#line vty  0 15
+Switch-central(config-line)#password Terminal@12
+Switch-central(config-line)#login 
+Switch-central(config-line)#exit
+```
