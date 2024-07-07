@@ -5,3 +5,4 @@
 
 Les résultats d'un nouveau formulaire peuvent être envoyés directement par e-mail afin que vous puissiez voir immédiatement quand vous avez reçu un nouveau message. Votre formulaire Formsite conserve un enregistrement de chaque résultat et vous pouvez utiliser une intégration pour automatiser la création de nouveaux prospects Salesforce, l'ajout à une liste de diffusion Mailchimp et bien plus encore.**
 
+# 🪗 ks
