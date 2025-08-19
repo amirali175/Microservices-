@@ -4,7 +4,7 @@ Le module Azure PowerShell permet de créer et de gérer des ressources Azure de
 
 🀄Lancer Azure Cloud Shell
 ---------------------------
-"""
+```
 New-AzResourceGroup -Name 'myResourceGroup' -Location 'eastus'
-"""
+```
 
