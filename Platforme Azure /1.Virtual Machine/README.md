@@ -19,7 +19,7 @@ Créez une machine virtuelle avec New-AzVM . Indiquez le nom de chaque ressource
 Lorsque vous y êtes invité, indiquez un nom d'utilisateur et un mot de passe à utiliser comme informations de connexion pour la machine virtuelle :
 
 ```
-New-AzVm -ResourceGroupName 'myResourceGroup' -Name 'server2022' -Location 'eastus' -Image 'MicrosoftWindowsServer:WindowsServer:2022-datacenter-azure-edition:latest' -VirtualNetworkName 'myVnet' -SubnetName 'mySubnet' -SecurityGroupName 'myNetworkSecurityGroup' -PublicIpAddressName 'myPublicIpAddress' -OpenPorts 80,3389
+New-AzVm -ResourceGroupName 'TorontoCollege1' -Name 'server2022' -Location 'eastus' -Image 'MicrosoftWindowsServer:WindowsServer:2022-datacenter-azure-edition:latest' -VirtualNetworkName 'myVnet' -SubnetName 'mySubnet' -SecurityGroupName 'myNetworkSecurityGroup' -PublicIpAddressName 'myPublicIpAddress' -OpenPorts 80,3389
 ```
 
 ![image](images/2..png)
