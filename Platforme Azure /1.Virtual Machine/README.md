@@ -35,5 +35,6 @@ Invoke-AzVMRunCommand -ResourceGroupName 'TorontoCollege1' -VMName 'myVM' -Comma
 ```
 ![image](images/4.png)
 
-
+😧 Verification de la machine VM
+=
 
