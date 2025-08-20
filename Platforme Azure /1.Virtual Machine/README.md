@@ -19,3 +19,4 @@ Créez une machine virtuelle avec New-AzVM . Indiquez le nom de chaque ressource
 Lorsque vous y êtes invité, indiquez un nom d'utilisateur et un mot de passe à utiliser comme informations de connexion pour la machine virtuelle :
 
 ![image](images/2..png)
+![image](images/3.png)
