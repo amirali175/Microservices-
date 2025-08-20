@@ -36,5 +36,13 @@ Invoke-AzVMRunCommand -ResourceGroupName 'TorontoCollege1' -VMName 'myVM' -Comma
 ![image](images/4.png)
 
 😧 Verification de la machine VM
-=
+---------------------------------
+Pour vérifier si la virtualisation est activée sur une machine virtuelle Azure avec PowerShell, vous pouvez utiliser la commande Get-VM et vérifier l'état de la machine virtuelle dans la colonne PowerState.
+
+1. Connectez-vous à votre tenant Azure:
+2.Exécutez la commande Get-AzVM:
+Utilisez la commande Get-AzVM pour obtenir les informations sur votre machine virtuelle. Vous pouvez spécifier le nom de la VM avec le paramètre -Name et ajouter -Status pour obtenir l'état détaillé.
+```
+    Get-AzVM -Name 'MyVM' -Status
+```
 
