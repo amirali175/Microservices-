@@ -10,3 +10,5 @@ New-AzResourceGroup -Name 'myResourceGroup' -Location 'eastus'
 ```
 
 ![image](images/1..png)
+
+🇩🇯:Créer une machine virtuelle
