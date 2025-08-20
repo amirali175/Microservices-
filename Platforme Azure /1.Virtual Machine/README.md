@@ -9,4 +9,4 @@ vous pouvez changez le Name a votre choix
 New-AzResourceGroup -Name 'myResourceGroup' -Location 'eastus'
 ```
 
-![image](images/1.png)
+![image](images/1..png)
