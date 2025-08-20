@@ -28,6 +28,8 @@ New-AzVm -ResourceGroupName 'TorontoCollege1' -Name 'server2022' -Location 'east
 
 🫀Installer le serveur Web
 ---------------------------
+
+
 ```
 Invoke-AzVMRunCommand -ResourceGroupName 'TorontoCollege1' -VMName 'myVM' -CommandId 'RunPowerShellScript' -ScriptString 'Install-WindowsFeature -Name Web-Server -IncludeManagementTools'
 ```
