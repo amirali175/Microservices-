@@ -14,3 +14,4 @@ Les machines virtuelles Azure offrent un environnement informatique entièrement
 :one: Lancer Azure Cloud Shell
 -----------------------------
 
+![image](images/1..png)
