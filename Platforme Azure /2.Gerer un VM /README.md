@@ -24,3 +24,5 @@ New-AzResourceGroup -ResourceGroupName "myResourceGroupVM" -Location "EastUS"
 ```
 
 Un groupe de ressources Azure est un conteneur logique dans lequel les ressources Azure sont déployées et gérées. Un groupe de ressources doit être créé avant une machine virtuelle. Dans l'exemple suivant, un groupe de ressources nommé myResourceGroupVM est créé dans la région Est des États-Unis :
+
+![image](image/2.png)
