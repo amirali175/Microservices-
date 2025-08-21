@@ -10,3 +10,6 @@ Les machines virtuelles Azure offrent un environnement informatique entièrement
 🎱Redimensionner une VM
 
 😠Afficher et comprendre l'état de la machine virtuelle
+
+:one: Lancer Azure Cloud Shell
+-----------------------------
