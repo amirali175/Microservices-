@@ -18,15 +18,32 @@ docker run hello-world
 
 Lorsque vous exécutez cette commande, plusieurs choses se passent en coulisse :
 
-Docker vérifie si l'image hello-world est disponible localement.
-Si ce n'est pas le cas, il télécharge automatiquement (ou "pull") l'image depuis Docker Hub.
-Docker crée un nouveau conteneur basé sur cette image.
-Le conteneur s'exécute, affiche un message, puis se termine.
+1.Docker vérifie si l'image hello-world est disponible localement.
+
+2.Si ce n'est pas le cas, il télécharge automatiquement (ou "pull") l'image depuis Docker Hub.
+
+3.Docker crée un nouveau conteneur basé sur cette image.
+
+4.Le conteneur s'exécute, affiche un message, puis se termine.
+
 Maintenant que nous avons exécuté notre premier conteneur, explorons plus en détail les images Docker. Rappelez-vous, une image est comme un plan ou un modèle pour un conteneur. Elle contient toutes les instructions nécessaires pour créer un conteneur.
 
 Pour voir les images disponibles sur votre système local, utilisez la commande suivante :
 
 ```
-
+docker images
 ```
 
+Résumé
+------
+Félicitations! Vous avez terminé votre premier laboratoire Docker et avez franchi les premières étapes dans le monde de la conteneurisation! Vous avez appris à :
+
+Comprendre les concepts de base de Docker
+
+Exécuter votre premier conteneur en utilisant l'image hello-world
+
+Afficher et comprendre les images Docker sur votre système
+
+Naviguer sur Docker Hub pour trouver et en savoir plus sur les images
+
+Ce n'est que le début de votre parcours avec Docker! Vous avez vu à quel point la conteneurisation peut être puissante, même avec des exemples simples. Prêt à faire passer vos compétences au niveau supérieur?
