@@ -8,8 +8,11 @@ La meilleure façon d'apprendre Docker est de faire. Ne lisez pas seulement ce l
 
 Dans ce laboratoire, vous apprendrez à :
 
-Comprendre les concepts de base de Docker
-Exécuter votre premier conteneur Docker
-Utiliser les commandes essentielles de Docker
-Explorer Docker Hub
+🏺Comprendre les concepts de base de Docker
+
+🪕Exécuter votre premier conteneur Docker
+
+🉑Utiliser les commandes essentielles de Docker
+
+♒Explorer Docker Hub
 
