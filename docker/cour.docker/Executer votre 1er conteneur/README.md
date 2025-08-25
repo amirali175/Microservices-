@@ -10,9 +10,9 @@ docker run hello-world
 🃏Analysons ce que cette commande fait :
 ------------------------------------------
 
-docker : C'est la commande pour interagir avec le Docker Engine.
-run : Cette sous-commande indique à Docker de créer et de démarrer un nouveau conteneur.
-hello-world : C'est le nom de l'image que nous voulons exécuter.
+◾docker : C'est la commande pour interagir avec le Docker Engine.
+◾run : Cette sous-commande indique à Docker de créer et de démarrer un nouveau conteneur.
+◾hello-world : C'est le nom de l'image que nous voulons exécuter.
 Lorsque vous exécutez cette commande, plusieurs choses se passent en coulisse :
 
 Docker vérifie si l'image hello-world est disponible localement.
