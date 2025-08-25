@@ -1,7 +1,7 @@
 Votre tâche est simple :
 ------------------------
 
-Exécutez un conteneur Docker basé sur l'image ```docker/getting-started```
+Exécutez un conteneur Docker basé sur l'image ```"docker/getting-started"```
 
 Exigences
 ----------
