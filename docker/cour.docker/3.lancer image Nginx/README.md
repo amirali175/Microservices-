@@ -16,3 +16,10 @@ Maintenant, récupérons l'image Nginx. Saisissez la commande suivante et appuye
 $docker pull nginx
 ```
 Cette commande indique à Docker de télécharger la dernière version de l'image Nginx depuis Docker Hub.
+
+Maintenant que nous avons téléchargé l'image, vérifions qu'elle est bien présente sur notre système. Pour cela, nous listons toutes les images que Docker possède localement :
+```
+$docker images
+```
+
+
