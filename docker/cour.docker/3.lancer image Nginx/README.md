@@ -7,3 +7,11 @@ Dans cet atelier, nous explorerons les images Docker, qui constituent la base de
 -----------
 
 Nginx, prononcé comme « engine-ex », est un serveur web open-source qui, depuis son succès initial en tant que serveur web, est maintenant aussi utilisé comme reverse proxy, cache HTTP, et load balancer.
+
+Premier etape:Telecharger nginx
+---------------------------------
+
+Maintenant, récupérons l'image Nginx. Saisissez la commande suivante et appuyez sur Entrée : 
+```
+$docker pull nginx
+```
