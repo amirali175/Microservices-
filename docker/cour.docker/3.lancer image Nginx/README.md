@@ -8,7 +8,7 @@ Dans cet atelier, nous explorerons les images Docker, qui constituent la base de
 
 Nginx, prononcé comme « engine-ex », est un serveur web open-source qui, depuis son succès initial en tant que serveur web, est maintenant aussi utilisé comme reverse proxy, cache HTTP, et load balancer.
 
-Premier etape:Telecharger nginx
+Premiere Partie:Telecharger nginx
 ---------------------------------
 
 Maintenant, récupérons l'image Nginx. Saisissez la commande suivante et appuyez sur Entrée : 
@@ -21,5 +21,17 @@ Maintenant que nous avons téléchargé l'image, vérifions qu'elle est bien pr�
 ```
 $docker images
 ```
+
+
+Exercice de rechauffement 
+------------------------
+Exécution de différentes versions d'une image
+Docker vous permet d'exécuter des versions spécifiques d'une image grâce à des balises. Ces balises sont comme des alias pour des versions spécifiques d'une image. Explorons ce concept avec l'image Python.
+
+Commençons par extraire la dernière image Python
+
+Vous obtiendrez un résultat similaire à celui obtenu lors de l'extraction de l'image Nginx. Il s'agit du téléchargement de la dernière version de Python.
+
+Maintenant, extrayons une version spécifique de Python, disons la version 3.7 :
 
 
